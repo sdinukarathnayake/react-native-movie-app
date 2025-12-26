@@ -1,3 +1,4 @@
+/*
 import { Link } from "expo-router";
 import { Text, Image, TouchableOpacity, View } from "react-native";
 
@@ -48,3 +49,4 @@ const MovieCard = ({
 };
 
 export default MovieCard;
+*/

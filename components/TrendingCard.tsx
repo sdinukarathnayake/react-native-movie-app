@@ -1,3 +1,4 @@
+/*
 import { Link } from "expo-router";
 import MaskedView from "@react-native-masked-view/masked-view";
 import { View, Text, TouchableOpacity, Image } from "react-native";
@@ -43,3 +44,4 @@ const TrendingCard = ({
 };
 
 export default TrendingCard;
+*/
